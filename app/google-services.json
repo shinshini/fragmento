@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441711249303",
+    "project_id": "db-proyecto-2doal",
+    "storage_bucket": "db-proyecto-2doal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441711249303:android:48e30d1f2534a0ba3de6d2",
+        "android_client_info": {
+          "package_name": "com.app.proyect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYC_bInZ0-cpWTl2QFcYLoDLmWBohvLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441711249303:android:1c944a9017ddc6303de6d2",
+        "android_client_info": {
+          "package_name": "com.example.fragment1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYC_bInZ0-cpWTl2QFcYLoDLmWBohvLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
